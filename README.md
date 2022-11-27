@@ -16,8 +16,8 @@ NT adalah sebuah boiler plate starter nextjs dan tailwindcss
 <!-- how to install -->
 
 ```bash
-git clone {{repo}}
-cd {{repo}}
+git clone https://github.com/axzid/NT
+cd NT
 npm install # or yarn install
 npm run dev # or yarn dev
 ```
